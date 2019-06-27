@@ -1,1 +1,1 @@
-Building Microservices - Pivotal training
+Building Microservices - Pivotal training Second Edition
